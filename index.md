@@ -5,5 +5,5 @@ here you will find whatever stuff i put on here
 
 
 ### Games
-[Geometry Dash Clone](/yore/index.html)
+[Geometry Dash Clone](/yore/index.html)<br> 
 [Keyboard Applet](/keyboard/index.html)
